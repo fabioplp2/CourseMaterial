@@ -19,7 +19,7 @@ class GridDefTest(unittest.TestCase):
 
 
     '''
-        This class is used to implement unittests for PyEDW.ServerConnect class
+        This class is used to implement unittests for pygeostat griddef class
     '''
 
     def setUp(self):
